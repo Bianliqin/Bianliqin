@@ -6,7 +6,7 @@ package blq;
  * @Author huachengyu
  * @Date 2020/10/9
  **/
-public class People {
+class People {
     int leg,hand;
     String name;
     People(String s){
